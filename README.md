@@ -26,8 +26,8 @@ A simple RESTful API for managing events and user registrations, built with Go (
 1.  **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone [<repository-url>](https://github.com/MuhammadBinAbdulLatif/event_rest_golang)
+    cd event_rest_golang
     ```
 
 2.  **Install Dependencies**:
